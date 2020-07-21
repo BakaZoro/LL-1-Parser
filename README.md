@@ -1,6 +1,6 @@
 # LL(1) Parser IN C++
 
-# This LL(1) Parser, allows you to input any input string and then it checks if the input string is grammatically correct
+# This LL(1) Parser allows you to input any string and then it checks if the input string is grammatically correct
 
 # STEPS TO USE THE PARSER:
 
